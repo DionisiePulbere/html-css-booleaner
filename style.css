@@ -42,3 +42,12 @@ a{
 .crediti{
     font-size: 12px;
 }
+
+.articolo{
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+.giallo{
+    background-color: yellow;
+}
