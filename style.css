@@ -4,16 +4,41 @@
     
 }
 
+main{
+    margin-left: 10px;
+}
+
 header{
     
     background-image: url(img/pattern.png);
     background-color: #4EA0FF;
-    background-size: 270px;
+    background-size: 250px;
 }
 
 .logo{
     width: 160px;
     padding-top: 35px;
     padding-left: 7px;
-    padding-bottom: 7px;
+    padding-bottom: 5px;
+}
+
+h1{
+    font-size: 30px;
+}
+
+.autore{
+    color: #808080;
+}
+
+.data{
+    font-size: 12px;
+}
+
+a{
+    text-decoration: none;
+    color: #009AD5;
+}
+
+.crediti{
+    font-size: 12px;
 }
